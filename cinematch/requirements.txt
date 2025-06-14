@@ -1,0 +1,9 @@
+
+pandas
+googletrans==4.0.0-rc1
+pillow
+requests
+
+
+// dataset https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data
+// arquivo backup contém a versão em ingles

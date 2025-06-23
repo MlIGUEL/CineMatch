@@ -2,7 +2,7 @@
 
 CineMatch é um sistema de recomendação de filmes com interface moderna em Python (Tkinter). A cada rodada, o usuário vota em filmes com **"Gostei"** ou **"Não Gostei"**, e ao final o sistema recomenda um título baseado nas preferências demonstradas.
 
-
+# GRUPO NO 12 - 202403430851 202404019446
 
 ## 📁 DATASET USADO
 
